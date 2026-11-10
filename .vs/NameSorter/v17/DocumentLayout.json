@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RanieR\\Downloads\\NameSorter\\NameSorter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B2D8F9-6EAC-4E5B-9D4F-28F7C1E43B12}|tests\\NameSorter.Tests\\NameSorter.Tests.csproj|c:\\users\\ranier\\downloads\\namesorter\\namesorter\\tests\\namesorter.tests\\namesortertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6B2D8F9-6EAC-4E5B-9D4F-28F7C1E43B12}|tests\\NameSorter.Tests\\NameSorter.Tests.csproj|solutionrelative:tests\\namesorter.tests\\namesortertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B2D8F9-6EAC-4E5B-9D4F-28F7C1E43B12}|tests\\NameSorter.Tests\\NameSorter.Tests.csproj|c:\\users\\ranier\\downloads\\namesorter\\namesorter\\tests\\namesorter.tests\\nameparsertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6B2D8F9-6EAC-4E5B-9D4F-28F7C1E43B12}|tests\\NameSorter.Tests\\NameSorter.Tests.csproj|solutionrelative:tests\\namesorter.tests\\nameparsertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A1C7F8-5D9B-4D4A-8C3E-17E6B0D32A01}|src\\NameSorter\\NameSorter.csproj|c:\\users\\ranier\\downloads\\namesorter\\namesorter\\src\\namesorter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A1C7F8-5D9B-4D4A-8C3E-17E6B0D32A01}|src\\NameSorter\\NameSorter.csproj|solutionrelative:src\\namesorter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A1C7F8-5D9B-4D4A-8C3E-17E6B0D32A01}|src\\NameSorter\\NameSorter.csproj|c:\\users\\ranier\\downloads\\namesorter\\namesorter\\src\\namesorter\\services\\namesorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A1C7F8-5D9B-4D4A-8C3E-17E6B0D32A01}|src\\NameSorter\\NameSorter.csproj|solutionrelative:src\\namesorter\\services\\namesorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A1C7F8-5D9B-4D4A-8C3E-17E6B0D32A01}|src\\NameSorter\\NameSorter.csproj|c:\\users\\ranier\\downloads\\namesorter\\namesorter\\src\\namesorter\\services\\nameparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A1C7F8-5D9B-4D4A-8C3E-17E6B0D32A01}|src\\NameSorter\\NameSorter.csproj|solutionrelative:src\\namesorter\\services\\nameparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A1C7F8-5D9B-4D4A-8C3E-17E6B0D32A01}|src\\NameSorter\\NameSorter.csproj|c:\\users\\ranier\\downloads\\namesorter\\namesorter\\src\\namesorter\\models\\personname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A1C7F8-5D9B-4D4A-8C3E-17E6B0D32A01}|src\\NameSorter\\NameSorter.csproj|solutionrelative:src\\namesorter\\models\\personname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cf577b8c-4134-11d2-83e5-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:254354193:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NameSorterTests.cs",
+              "DocumentMoniker": "C:\\Users\\RanieR\\Downloads\\NameSorter\\NameSorter\\tests\\NameSorter.Tests\\NameSorterTests.cs",
+              "RelativeDocumentMoniker": "tests\\NameSorter.Tests\\NameSorterTests.cs",
+              "ToolTip": "C:\\Users\\RanieR\\Downloads\\NameSorter\\NameSorter\\tests\\NameSorter.Tests\\NameSorterTests.cs",
+              "RelativeToolTip": "tests\\NameSorter.Tests\\NameSorterTests.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwB4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T22:27:39.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NameParserTests.cs",
+              "DocumentMoniker": "C:\\Users\\RanieR\\Downloads\\NameSorter\\NameSorter\\tests\\NameSorter.Tests\\NameParserTests.cs",
+              "RelativeDocumentMoniker": "tests\\NameSorter.Tests\\NameParserTests.cs",
+              "ToolTip": "C:\\Users\\RanieR\\Downloads\\NameSorter\\NameSorter\\tests\\NameSorter.Tests\\NameParserTests.cs",
+              "RelativeToolTip": "tests\\NameSorter.Tests\\NameParserTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T22:25:44.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NameSorter.cs",
+              "DocumentMoniker": "C:\\Users\\RanieR\\Downloads\\NameSorter\\NameSorter\\src\\NameSorter\\Services\\NameSorter.cs",
+              "RelativeDocumentMoniker": "src\\NameSorter\\Services\\NameSorter.cs",
+              "ToolTip": "C:\\Users\\RanieR\\Downloads\\NameSorter\\NameSorter\\src\\NameSorter\\Services\\NameSorter.cs",
+              "RelativeToolTip": "src\\NameSorter\\Services\\NameSorter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T22:22:45.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NameParser.cs",
+              "DocumentMoniker": "C:\\Users\\RanieR\\Downloads\\NameSorter\\NameSorter\\src\\NameSorter\\Services\\NameParser.cs",
+              "RelativeDocumentMoniker": "src\\NameSorter\\Services\\NameParser.cs",
+              "ToolTip": "C:\\Users\\RanieR\\Downloads\\NameSorter\\NameSorter\\src\\NameSorter\\Services\\NameParser.cs",
+              "RelativeToolTip": "src\\NameSorter\\Services\\NameParser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T22:22:35.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonName.cs",
+              "DocumentMoniker": "C:\\Users\\RanieR\\Downloads\\NameSorter\\NameSorter\\src\\NameSorter\\Models\\PersonName.cs",
+              "RelativeDocumentMoniker": "src\\NameSorter\\Models\\PersonName.cs",
+              "ToolTip": "C:\\Users\\RanieR\\Downloads\\NameSorter\\NameSorter\\src\\NameSorter\\Models\\PersonName.cs",
+              "RelativeToolTip": "src\\NameSorter\\Models\\PersonName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T22:19:52.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RanieR\\Downloads\\NameSorter\\NameSorter\\src\\NameSorter\\Program.cs",
+              "RelativeDocumentMoniker": "src\\NameSorter\\Program.cs",
+              "ToolTip": "C:\\Users\\RanieR\\Downloads\\NameSorter\\NameSorter\\src\\NameSorter\\Program.cs",
+              "RelativeToolTip": "src\\NameSorter\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T21:52:14.791Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

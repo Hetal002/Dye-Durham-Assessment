@@ -1,0 +1,20 @@
+name: .NET build and test
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: 8.0.x
+      - name: Restore
+        run: dotnet restore NameSorter.sln
+      - name: Build
+        run: dotnet build NameSorter.sln --configuration Release --no-restore
+      - name: Test
+        run: dotnet test NameSorter.sln --configuration Release --no-build --logger "trx;LogFileName=test-results.trx"

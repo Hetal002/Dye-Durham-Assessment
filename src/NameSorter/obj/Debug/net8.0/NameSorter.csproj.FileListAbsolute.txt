@@ -1,0 +1,14 @@
+C:\Users\RanieR\Downloads\NameSorter\NameSorter\src\NameSorter\obj\Debug\net8.0\NameSorter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RanieR\Downloads\NameSorter\NameSorter\src\NameSorter\obj\Debug\net8.0\NameSorter.AssemblyInfoInputs.cache
+C:\Users\RanieR\Downloads\NameSorter\NameSorter\src\NameSorter\obj\Debug\net8.0\NameSorter.AssemblyInfo.cs
+C:\Users\RanieR\Downloads\NameSorter\NameSorter\src\NameSorter\obj\Debug\net8.0\NameSorter.csproj.CoreCompileInputs.cache
+C:\Users\RanieR\Downloads\NameSorter\NameSorter\src\NameSorter\bin\Debug\net8.0\NameSorter.exe
+C:\Users\RanieR\Downloads\NameSorter\NameSorter\src\NameSorter\bin\Debug\net8.0\NameSorter.deps.json
+C:\Users\RanieR\Downloads\NameSorter\NameSorter\src\NameSorter\bin\Debug\net8.0\NameSorter.runtimeconfig.json
+C:\Users\RanieR\Downloads\NameSorter\NameSorter\src\NameSorter\bin\Debug\net8.0\NameSorter.dll
+C:\Users\RanieR\Downloads\NameSorter\NameSorter\src\NameSorter\bin\Debug\net8.0\NameSorter.pdb
+C:\Users\RanieR\Downloads\NameSorter\NameSorter\src\NameSorter\obj\Debug\net8.0\NameSorter.dll
+C:\Users\RanieR\Downloads\NameSorter\NameSorter\src\NameSorter\obj\Debug\net8.0\refint\NameSorter.dll
+C:\Users\RanieR\Downloads\NameSorter\NameSorter\src\NameSorter\obj\Debug\net8.0\NameSorter.pdb
+C:\Users\RanieR\Downloads\NameSorter\NameSorter\src\NameSorter\obj\Debug\net8.0\NameSorter.genruntimeconfig.cache
+C:\Users\RanieR\Downloads\NameSorter\NameSorter\src\NameSorter\obj\Debug\net8.0\ref\NameSorter.dll
