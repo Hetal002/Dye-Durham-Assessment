@@ -13,9 +13,12 @@ public sealed class NameParser
         var parts = line.Split((char[]?)null, StringSplitOptions.RemoveEmptyEntries);
         if (parts.Length is < 2 or > 4)
         {
-            throw new FormatException("A name must contain one to three given names followed by a last name.");
+            throw new ArgumentException("A name must contain one to three given names followed by a last name.");
         }
 
-        return new PersonName(parts[..^1], parts[^1]);
+        var lastName = parts[^1];
+        lastName = char.ToUpperInvariant(lastName[0]) + lastName[1..];
+
+        return new PersonName(parts[..^1], lastName);
     }
 }

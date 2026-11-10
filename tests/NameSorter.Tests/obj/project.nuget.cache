@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "C3lhLVejyeY=",
+  "dgSpecHash": "MopEQSuu1u0=",
   "success": true,
   "projectFilePath": "C:\\Users\\aary7\\OneDrive\\Desktop\\NameSorter\\tests\\NameSorter.Tests\\NameSorter.Tests.csproj",
   "expectedPackageFiles": [
@@ -17,10 +17,7 @@
     "C:\\Users\\aary7\\.nuget\\packages\\xunit.core\\2.9.2\\xunit.core.2.9.2.nupkg.sha512",
     "C:\\Users\\aary7\\.nuget\\packages\\xunit.extensibility.core\\2.9.2\\xunit.extensibility.core.2.9.2.nupkg.sha512",
     "C:\\Users\\aary7\\.nuget\\packages\\xunit.extensibility.execution\\2.9.2\\xunit.extensibility.execution.2.9.2.nupkg.sha512",
-    "C:\\Users\\aary7\\.nuget\\packages\\xunit.runner.visualstudio\\2.8.2\\xunit.runner.visualstudio.2.8.2.nupkg.sha512",
-    "C:\\Users\\aary7\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.33\\microsoft.netcore.app.ref.8.0.33.nupkg.sha512",
-    "C:\\Users\\aary7\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.33\\microsoft.windowsdesktop.app.ref.8.0.33.nupkg.sha512",
-    "C:\\Users\\aary7\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.33\\microsoft.aspnetcore.app.ref.8.0.33.nupkg.sha512"
+    "C:\\Users\\aary7\\.nuget\\packages\\xunit.runner.visualstudio\\2.8.2\\xunit.runner.visualstudio.2.8.2.nupkg.sha512"
   ],
   "logs": []
 }
